@@ -5,3 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZGCTS_REPORT_S.
 write:'This is demo'.
+Write:'Remote'.
